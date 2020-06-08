@@ -6,7 +6,7 @@ if(!empty($_GET['status']))
     if($param == "website")
     {
         $myfile = fopen("newfile.txt", "w") or die("Unable to open file!");
-        $txt = "https://www.automaticlaundry.com/superior-service-solutions/";
+        $txt = "https://www.apest.co.uk/services.html";
         fwrite($myfile, $txt);
         fclose($myfile);
     }
