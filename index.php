@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.sage.com/en-gb/sage-business-cloud/accounting/");
+header("Location: https://www.chocogram.com.au/chocolate-gifts");
 die();
 ?>
